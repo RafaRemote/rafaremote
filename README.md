@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**RafaRemote/rafaremote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a Junior Python Web Developper
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 currently looking for a 100% remote job
+- living in 🇫🇷
+- open to work for a company fron anywhere in the world 🌍
+
+- 2021: got professional title of Web Developer. 👨‍🎓
+- 2022: professional title of Python App Dev currently under approbation. 👨‍🎓
+
+- 📭 raphael.chauvat.pro@gmail.com
+- LinkedIn: https://www.linkedin.com/in/raphael-chauvat/
+- 🐦 Twitter: @RafaRemote
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rafaremote)](https://git.io/awesome-stats-card)
