@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi there! </h1>
+<h1 align="center">👋 Hi there!</h1>
 
-## I am Raphael, a Junior Python Developer!
+<h2 align="center">I am Raphael, a Junior Python Developer!</h2>
 
 ### Current situation:
 
@@ -11,7 +11,7 @@
 ### Diplomas:
 
 - 2021: got professional title of Web Developer. 👨‍🎓 / 🇪🇺 (European Qualification Framework)
-- 2022: will get professional title of Python App Dev, currently under approbation. 👨‍🎓 (European Qualification Framework)
+- 2022: will get professional title of Python App Dev, currently under approbation. 👨‍🎓 🇪🇺 (European Qualification Framework)
   
 ### Contact:
 
