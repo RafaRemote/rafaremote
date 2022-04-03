@@ -1,13 +1,12 @@
-### Hi there 👋
+<h1 align="center">👋 Hi there! </h1>
 
-## I am a Junior Python Web Developper
+## I am Raphael, a Junior Python Developer!
 
 ### Current situation:
 
 - 🔭 currently looking for a 100% remote job
 - living in 🇫🇷
-- as long as english 🇬🇧 is the common language:  
-- I am ready to work for a company from anywhere in the world 🌍
+- as long as english 🇬🇧 is the common work language I am ready to work for a company from anywhere in the world 🌍
 
 ### Diplomas:
 
