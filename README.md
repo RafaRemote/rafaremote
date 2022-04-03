@@ -12,6 +12,6 @@
 
 - 📭 raphael.chauvat.pro@gmail.com
 - LinkedIn: https://www.linkedin.com/in/raphael-chauvat/
-- 🐦 Twitter: @RafaRemote
+- 🐦 Twitter: https://twitter.com/rafaremote
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rafaremote)](https://git.io/awesome-stats-card)
