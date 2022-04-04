@@ -4,7 +4,7 @@
 
 ### Current situation:
 
-- 🔭 currently looking for a 100% remote job
+- 🔭 looking for a 100% remote job
 - living in 🇫🇷
 - as long as english 🇬🇧 is the common work language I am ready to work for a company from anywhere in the world 🌍!
 
