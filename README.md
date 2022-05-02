@@ -10,10 +10,10 @@
 
 ### Diplomas:
 
-- 2022: got professional title of Python App Dev. 👨‍🎓 🇪🇺 (European Qualification Framework - Bachelor's degree level)
-- 2021: got professional title of Web Developer. 👨‍🎓 / 🇪🇺 (European Qualification Framework)
+- 2022: got professional title of Python Developer. 👨‍🎓 🇪🇺 (European Qualification Framework - Bachelor's degree level)
+- 2021: got professional title of Web Developer. 👨‍🎓 🇪🇺 (European Qualification Framework)
 
-  
+
 ### Contact:
 
 - 📭 raphael.chauvat.pro@gmail.com
