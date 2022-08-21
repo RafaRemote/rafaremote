@@ -2,6 +2,7 @@
 
 <h2 align="center">I am Raphael, a Junior Python Developer!</h2>
 
+
 ### Current situation:
 
 - 🔭 looking for a 100% remote job
@@ -19,9 +20,10 @@
 ### Contact:
 
 - 📭 raphael.chauvat.pro@gmail.com
-- <i class="fa-brands fa-linkedin"></i> LinkedIn: https://www.linkedin.com/in/raphael-chauvat/
+- 👉🏻 LinkedIn: https://www.linkedin.com/in/raphael-chauvat/
 - 🐦 Twitter: https://twitter.com/rafaremote
-  
+
+
 ### Stats:
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaremote)
