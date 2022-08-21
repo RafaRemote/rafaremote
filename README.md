@@ -19,7 +19,7 @@
 ### Contact:
 
 - 📭 raphael.chauvat.pro@gmail.com
-- LinkedIn: https://www.linkedin.com/in/raphael-chauvat/
+- <i class="fa-brands fa-linkedin"></i> LinkedIn: https://www.linkedin.com/in/raphael-chauvat/
 - 🐦 Twitter: https://twitter.com/rafaremote
   
 ### Stats:
