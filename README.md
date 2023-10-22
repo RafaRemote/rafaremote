@@ -21,7 +21,7 @@
 
 - 📭 raphael.chauvat.pro@gmail.com
 - 👉🏻 LinkedIn: https://www.linkedin.com/in/raphael-chauvat/
-- 🐦 Twitter: https://twitter.com/rafaremote
+- <i class="fa-brands fa-x-twitter"></i> https://twitter.com/rafaremote
 
 
 ### Stats:
